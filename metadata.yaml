@@ -1,5 +1,8 @@
 _repo: Sulikki-Kertomus-pakanuuden-viime-ajoilta-Hameessa_60987
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bergman, Johan Albert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6615
     wikipedia: https://fi.wikipedia.org/wiki/J._A._Bergman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60987#Sulikki-Kertomus-pakanuuden-viime-ajoilta-Hameessa
 gutenberg_issued: '2019-12-21'
 gutenberg_type: Text
 identifiers:
